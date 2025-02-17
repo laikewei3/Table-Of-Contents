@@ -24,6 +24,7 @@
 <li>Lucky Hotel - Hotel Booking System [<a href="https://github.com/laikewei3/Lucky_Hotel.git">Link</a>]</li>
 
 ## Web Development (Front End)
+<li>VHACK2024: FinanceVista [<a href="https://github.com/michelle264/VHACK2024_MoneyGang_FinanceVista.git">Link</a>]</li>
 <li>Facebook Login Page Clone [<a href="https://github.com/laikewei3/facebook_login.git">Link</a>]</li>
 <li>Google Drive Clone [<a href="https://github.com/laikewei3/Google_Drive_Clone.git">Link</a>]</li>
 <li>Hotstar Clone [<a href="https://github.com/laikewei3/Hotstar_Clone.git">Link</a>]</li>
