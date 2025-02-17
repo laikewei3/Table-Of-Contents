@@ -12,7 +12,7 @@
 <li>Replace Green Screen Video [<a href="https://github.com/laikewei3/Replace_Green_Screen_Video.git">Link</a>]</li>
 
 ## ML/DL Project
-<li>JamAI Base: Story Weaver [<a href="">Link</a> | <a href="https://youtu.be/N8Y_0QkD0X0">YouTube</a>]</li>
+<li>JamAI Base: Story Weaver [<a href="https://github.com/laikewei3/JamAIBase.git">Link</a> | <a href="https://youtu.be/N8Y_0QkD0X0">YouTube</a>]</li>
 <li>Pneumonia_classification [<a href="https://github.com/Pyrexiaa/pneumonia_classification.git">Link</a>]</li>
 <li>AI-Medical-Chabot [<a href="https://github.com/leekeaten/WID3014-Practical-AI-Medical-Chabot.git">Link</a>]</li>
 <li>Tic Tac Toe [<a href="https://github.com/laikewei3/Tic-tac-toe.git">Link</a>]</li>
