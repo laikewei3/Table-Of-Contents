@@ -19,8 +19,8 @@
 <li>Face Recognition [<a href="https://github.com/laikewei3/Face_Recognition.git">Link</a>]</li>
 
 ## Full Stack Project
+<li>Android Table Booking App [<a href="https://github.com/laikewei3/TableBooking.git">Link</a> | <a href="https://youtu.be/__LnCr3WRfU">YouTube</a>]</li>
 <li>CSNavBot: Campus Smart Navigation Bot [<a href="https://github.com/laikewei3/UM_NLP.git">Link</a>]</li>
-<li>Android Table Booking App [<a href="https://github.com/laikewei3/TableBooking.git">Link</a>]</li>
 <li>Lucky Hotel - Hotel Booking System [<a href="https://github.com/laikewei3/Lucky_Hotel.git">Link</a>]</li>
 
 ## Web Development (Front End)
