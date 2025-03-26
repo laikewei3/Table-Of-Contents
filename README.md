@@ -17,6 +17,8 @@
 <li>AI-Medical-Chabot [<a href="https://github.com/leekeaten/WID3014-Practical-AI-Medical-Chabot.git">Link</a>]</li>
 <li>Tic Tac Toe [<a href="https://github.com/laikewei3/Tic-tac-toe.git">Link</a>]</li>
 <li>Face Recognition [<a href="https://github.com/laikewei3/Face_Recognition.git">Link</a>]</li>
+<li>Machine Learning Projects [<a href="https://github.com/laikewei3/Machine_Learning_YT.git">Link</a>] </li>
+<li>Deep Learning Projects [<a href="https://github.com/laikewei3/DeepLearning_YT.git">Link</a>] </li>
 
 ## Full Stack Project
 <li>Android Table Booking App [<a href="https://github.com/laikewei3/TableBooking.git">Link</a> | <a href="https://youtu.be/__LnCr3WRfU">YouTube</a>]</li>
